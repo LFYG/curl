@@ -1,0 +1,13 @@
+*{
+	margin:0;
+	padding:0;
+}
+a{
+	text-decoration:none;
+}
+.con ul .li{
+	width:200px;
+	height:350px;
+	display:block;
+	float:left;
+}
